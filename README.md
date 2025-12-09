@@ -1,4 +1,4 @@
-# Expense Tracker
+# Expense Calculator
 
 *  A simple web-based application to track your daily expenses.
 *  You can add amounts, categorize them, filter them, and reset all data.
