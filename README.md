@@ -19,10 +19,13 @@ This project uses all CRUD operations:
 
 **Operation** ---	**Meaning**	 ---   **In This App**
 
-Create	-         Add new data	 -     Adding a new expense/income,
-Read	  -       View existing data	-  Listing all expenses/income,
-Update	 -        Modify data	 -     Editing an expense/income,
-Delete	  -       Remove data	  -    Deleting an expense/income.
+Create	-         Add new data	 -     Adding a new expense/income
+
+Read	  -       View existing data	-  Listing all expenses/income
+
+Update	 -        Modify data	 -     Editing an expense/income
+
+Delete	  -       Remove data	  -    Deleting an expense/income
 
 # How to Use
 
